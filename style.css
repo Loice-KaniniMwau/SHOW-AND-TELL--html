@@ -1,0 +1,38 @@
+.container3{
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container1{
+
+    display: flex;
+    gap: 80px;
+}
+thead,
+td{
+    border: 2px dotted black;
+    padding: 5px;
+    margin: 5px;
+}
+.container2{
+    display: flex;
+    gap:100px;
+    padding: 60px;
+}
+button{
+    border-radius: 40px;
+    border-color: aqua;
+    text-align: black;
+    padding-bottom: 10px;
+}
+h1{
+    font-style: italic;
+}
+.container4{
+display: flex;
+gap: 30px;
+background-color: black;
+color: wheat;
+padding: 20px;
+}
